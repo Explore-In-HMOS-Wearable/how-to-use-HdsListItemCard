@@ -1,0 +1,14 @@
+{
+  "devices": {
+    "general": [
+      "wearable"
+    ]
+  },
+  "development": {
+    "addedSysCaps": [
+      "SystemCapability.UIDesign.HDSComponent.Core",
+      "SystemCapability.UIDesign.HDSPattern.Standard",
+      "SystemCapability.UIDesign.HDSComponent.Full"
+    ]
+  }
+}

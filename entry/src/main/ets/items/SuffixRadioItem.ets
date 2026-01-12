@@ -13,7 +13,7 @@ export struct SuffixRadioItem {
             text: 'Suffix Radio',
             modifier: new TextModifier()
               .fontColor('#fff5f5f5')
-          },
+          }
         },
         suffixItem: new SuffixRadio({
           isCheck: this.isRadioChecked,

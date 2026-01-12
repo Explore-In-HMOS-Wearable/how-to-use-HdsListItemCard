@@ -13,7 +13,7 @@ export struct PrefixToggleButtonItem {
             text: 'Prefix Toggle',
             modifier: new TextModifier()
               .fontColor('#fff5f5f5')
-          },
+          }
         },
         prefixItem: new PrefixToggleButton({
           isCheck: this.isChecked,

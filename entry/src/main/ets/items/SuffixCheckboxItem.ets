@@ -13,7 +13,7 @@ export struct SuffixCheckboxItem {
             text: 'Suffix Checkbox',
             modifier: new TextModifier()
               .fontColor('#fff5f5f5')
-          },
+          }
         },
         suffixItem: new SuffixCheckbox({
           isCheck: this.isChecked,

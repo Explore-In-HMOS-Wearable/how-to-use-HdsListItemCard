@@ -11,7 +11,7 @@ export struct SuffixTextAndArrowItem {
             text: 'Suffix Badge and Arrow',
             modifier: new TextModifier()
               .fontColor('#fff5f5f5')
-          },
+          }
         },
         suffixItem: new SuffixTextAndArrow({
           text: 'Text',

@@ -17,7 +17,7 @@ export struct SuffixSelectItem {
             text: 'Suffix Select',
             modifier: new TextModifier()
               .fontColor('#fff5f5f5')
-          },
+          }
         },
         suffixItem: new SuffixSelect(this.selectStyle)
 

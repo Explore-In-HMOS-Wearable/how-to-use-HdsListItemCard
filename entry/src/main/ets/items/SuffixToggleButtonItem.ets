@@ -13,7 +13,7 @@ export struct SuffixToggleButtonItem {
             text: 'Suffix Toggle Button',
             modifier: new TextModifier()
               .fontColor('#fff5f5f5')
-          },
+          }
         },
         suffixItem: new SuffixToggleButton({
           isCheck: this.isChecked,

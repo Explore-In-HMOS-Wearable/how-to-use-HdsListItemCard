@@ -11,7 +11,7 @@ export struct SuffixIconItem {
             text: 'Suffix Icon',
             modifier: new TextModifier()
               .fontColor('#fff5f5f5')
-          },
+          }
         },
         suffixItem: new SuffixIcon({
           iconValue: {

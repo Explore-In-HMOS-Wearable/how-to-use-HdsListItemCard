@@ -11,7 +11,7 @@ export struct PrefixBadgeItem {
             text: 'Prefix Badge',
             modifier: new TextModifier()
               .fontColor('#fff5f5f5')
-          },
+          }
         },
         prefixItem: new PrefixBadge({
           badgeValue: 58,

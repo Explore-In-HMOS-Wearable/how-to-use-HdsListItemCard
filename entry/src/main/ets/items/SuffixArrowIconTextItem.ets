@@ -11,7 +11,7 @@ export struct SuffixArrowIconTextItem {
             text: 'Suffix Arrow Icon Text',
             modifier: new TextModifier()
               .fontColor('#fff5f5f5')
-          },
+          }
         },
         suffixItem: new SuffixArrowIconText({
           startArrow: {

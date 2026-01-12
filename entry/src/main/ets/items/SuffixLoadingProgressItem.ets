@@ -11,7 +11,7 @@ export struct SuffixLoadingProgressItem {
             text: 'Suffix Loading Progress',
             modifier: new TextModifier()
               .fontColor('#fff5f5f5')
-          },
+          }
         },
         suffixItem: new SuffixLoadingProgress({
           color: Color.White

@@ -1,6 +1,7 @@
 > **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS-Wearable Index](https://github.com/Explore-In-HMOS-Wearable/hmos-index).
 
 # How to use HdsListItemCard
+
 With this examples, you can implement all usage examples of hdsListItemCard.
 
 # Preview
@@ -33,8 +34,8 @@ All usage scenarios related to hdsListItemCard
 │   └───src
 │       ├───main
 │       │   ├───ets
-│       │   │   ├───items 
-│       │   │   └───pages 
+│       │   │   ├───items
+│       │   │   └───pages
 │       │   │         └───Index
 │       │   └───resources
 │       │       ├───base

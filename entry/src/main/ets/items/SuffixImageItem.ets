@@ -11,7 +11,7 @@ export struct SuffixImageItem {
             text: 'Suffix Image',
             modifier: new TextModifier()
               .fontColor('#fff5f5f5')
-          },
+          }
         },
         suffixItem: new SuffixImage({
           image: $r('app.media.startIcon'),
@@ -23,7 +23,7 @@ export struct SuffixImageItem {
               // TODO: Implement error handling.
             })
           }
-        }),
+        })
 
       })
     }

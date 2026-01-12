@@ -1,6 +1,6 @@
 {
   "app": {
-    "bundleName": "com.hmosdemos.uidesign",
+    "bundleName": "com.hmosdemos.wearable.how_to_use_hds_list_item_card",
     "vendor": "hmosdemos",
     "versionCode": 1000000,
     "versionName": "1.0.0",

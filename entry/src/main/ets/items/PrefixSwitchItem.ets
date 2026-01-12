@@ -13,7 +13,7 @@ export struct PrefixSwitchItem {
             text: 'Prefix Switch',
             modifier: new TextModifier()
               .fontColor('#fff5f5f5')
-          },
+          }
         },
         prefixItem: new PrefixSwitch({
           isCheck: this.isChecked,

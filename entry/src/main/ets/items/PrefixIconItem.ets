@@ -11,12 +11,12 @@ export struct PrefixIconItem {
             text: 'Prefix Icon',
             modifier: new TextModifier()
               .fontColor('#fff5f5f5')
-          },
+          }
         },
         prefixItem: new PrefixIcon({
           iconSize: 24,
           iconValue: {
-            symbol: $r('sys.symbol.message'),
+            symbol: $r('sys.symbol.message')
           }
         })
       })

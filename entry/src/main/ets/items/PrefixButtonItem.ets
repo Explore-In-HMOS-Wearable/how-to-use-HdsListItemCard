@@ -11,7 +11,7 @@ export struct PrefixButtonItem {
             text: 'Prefix Button',
             modifier: new TextModifier()
               .fontColor('#fff5f5f5')
-          },
+          }
         },
         prefixItem: new PrefixButton({
           text: 'Click',

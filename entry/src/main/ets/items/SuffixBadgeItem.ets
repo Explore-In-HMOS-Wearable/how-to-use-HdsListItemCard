@@ -11,7 +11,7 @@ export struct SuffixBadgeItem {
             text: 'Suffix Badge',
             modifier: new TextModifier()
               .fontColor('#fff5f5f5')
-          },
+          }
         },
         suffixItem: new SuffixBadge({
           badgeValue: 58,

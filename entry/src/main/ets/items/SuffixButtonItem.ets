@@ -11,7 +11,7 @@ export struct SuffixButtonItem {
             text: 'Suffix Button',
             modifier: new TextModifier()
               .fontColor('#fff5f5f5')
-          },
+          }
         },
         suffixItem: new SuffixButton({
           text: 'Click',

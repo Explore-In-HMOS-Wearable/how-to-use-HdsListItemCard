@@ -11,7 +11,7 @@ export struct SuffixArrowItem {
             text: 'Suffix Arrow',
             modifier: new TextModifier()
               .fontColor('#fff5f5f5')
-          },
+          }
         },
         suffixItem: new SuffixArrow({
           color: Color.White

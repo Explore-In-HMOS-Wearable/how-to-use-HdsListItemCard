@@ -11,7 +11,7 @@ export struct PrefixImageItem {
             text: 'Prefix Image',
             modifier: new TextModifier()
               .fontColor('#fff5f5f5')
-          },
+          }
         },
         prefixItem: new PrefixImage({
           image: $r('app.media.startIcon'),

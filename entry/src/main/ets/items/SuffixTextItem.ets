@@ -11,14 +11,14 @@ export struct SuffixTextItem {
             text: 'Suffix Text',
             modifier: new TextModifier()
               .fontColor('#fff5f5f5')
-          },
+          }
         },
         suffixItem: new SuffixText({
           text: 'Text',
           modifier: new TextModifier()
             .fontSize(18)
             .fontColor(Color.White)
-        }),
+        })
 
       })
     }
